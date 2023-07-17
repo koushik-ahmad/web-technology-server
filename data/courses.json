@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Javascript tutorials"
+    },
+    {
+        "id": "02",
+        "name": "Python tutorials"
+    },
+    {
+        "id": "03",
+        "name": "PHP tutorials"
+    },
+    {
+        "id": "04",
+        "name": "Node.js series"
+    },
+    {
+        "id": "05",
+        "name": "Machine learning"
+    },
+    {
+        "id": "06",
+        "name": "AI tutorials"
+    }
+]
